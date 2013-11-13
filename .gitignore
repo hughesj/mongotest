@@ -13,3 +13,13 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+.cache
+.target
+bin
+conf/overrides.conf
+.worksheet
+.ensime*
+*.sublime*
+/bin
+overrides.sbt
+.DS_Store
